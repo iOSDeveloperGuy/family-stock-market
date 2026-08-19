@@ -2,7 +2,7 @@
 
 A family-friendly fake stock-market simulator built with plain HTML, CSS, and JavaScript.
 
-The starter version displays five fictional companies and lets you advance the market by one simulated day. It intentionally keeps the code small so the family can grow it through focused pull requests.
+The repository intentionally contains only a small boilerplate site. Game features will be added through focused GitHub issues and pull requests.
 
 ## Run locally
 
